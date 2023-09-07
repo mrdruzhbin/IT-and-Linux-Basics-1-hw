@@ -13,7 +13,7 @@
 
 ### Инструкция по выполнению домашнего задания
 
-1. Сделайте [fork](http://screenshot.alarislabs.com/ib2024/image_20230907180710_d23e4fd5.png) [репозитория c шаблоном решения](https://github.com/Alaris-support/IT-and-Linux-Basics) к себе в Github и переименуйте его по названию или номеру занятия, например, https://github.com/имя-вашего-репозитория/IT-and-Linux-Basics/1-hw
+1. Сделайте [fork](http://screenshot.alarislabs.com/ib2024/image_20230907180710_d23e4fd5.png) репозитория c шаблоном решения к себе в Github и переименуйте его по названию или номеру занятия, например, https://github.com/имя-вашего-репозитория/IT-and-Linux-Basics/1-hw
 
 Название файла должно содержать название лекции и фамилию. 
 
