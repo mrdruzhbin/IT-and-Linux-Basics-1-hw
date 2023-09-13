@@ -2,11 +2,11 @@
 
 ## Основные Темы
 
-### [IT-and-Linux-Basics](https://github.com/Alaris-support/IT-and-Linux-Basics)
-1. Modern-Computer-Principles
-2. Automation-Tools
-3. OS-Types-and-Purpose
-4. Command-Line-Basics
+### [IT-системы и операционная система Linux](https://github.com/Alaris-support/IT-and-Linux-Basics)
+1. [Принципы работы современных компьютеров: процессоры, память, накопители](https://github.com/Alaris-support/IT-and-Linux-Basics/tree/main/1.%20Modern-Computer-Principles)
+2. Средства автоматизации и основные функции систем
+3. Типы и назначение операционных систем. ОС Linux
+4. Основы работы с командной строкой
 
 ### [Linux-OS-Concepts](https://github.com/Alaris-support/Linux-OS)
 1. Process-Management
